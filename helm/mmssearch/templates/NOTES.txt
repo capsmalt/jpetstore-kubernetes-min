@@ -1,0 +1,2 @@
+iGet Cluster Public IP Adress:
+$ ibmcloud cs workers mycluster
